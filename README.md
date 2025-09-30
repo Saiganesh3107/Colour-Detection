@@ -32,7 +32,7 @@ pip install opencv-python numpy
 3. Run the script:
 
    ```bash
-   python colour_detection.py
+   colour_detection.py
    ```
 4. A webcam window will open showing detected colours with bounding boxes and labels.
 5. Press **`q`** to exit the program.

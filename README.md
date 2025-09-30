@@ -1,4 +1,3 @@
-# Colour-Detection
 # 🎨 Real-Time Colour Detection using OpenCV
 
 This project detects and highlights specific colours in real-time from a webcam feed using **OpenCV**.
